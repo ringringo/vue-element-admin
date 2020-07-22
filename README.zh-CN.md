@@ -92,7 +92,7 @@ Become a sponsor and get your logo on our README on GitHub with a link to your s
 ## 功能
 
 ```
-- 1登录 / 注销
+- 12登录 / 注销
 
 - 权限验证
   - 页面权限
